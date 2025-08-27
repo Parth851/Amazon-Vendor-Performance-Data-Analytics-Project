@@ -1,4 +1,4 @@
-# Vendor Performance Analysis (SQL + Python + Power BI)
+# Amazon Vendor Performance Analysis (SQL + Python + Power BI)
 
 > End-to-end vendor and inventory performance analytics with automated ingestion, KPI generation, and an interactive Power BI dashboard.
 
